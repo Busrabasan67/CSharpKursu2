@@ -1,0 +1,7 @@
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Loops\bin\Debug\Loops.exe.config
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Loops\bin\Debug\Loops.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Loops\bin\Debug\Loops.pdb
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Loops\obj\Debug\Loops.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Loops\obj\Debug\Loops.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Loops\obj\Debug\Loops.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Loops\obj\Debug\Loops.pdb

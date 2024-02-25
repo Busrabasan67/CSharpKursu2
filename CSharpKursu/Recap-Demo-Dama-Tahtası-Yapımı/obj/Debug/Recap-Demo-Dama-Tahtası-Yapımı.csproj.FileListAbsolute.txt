@@ -1,0 +1,10 @@
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\bin\Debug\Recap-Demo-Dama-Tahtası-Yapımı.exe.config
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\bin\Debug\Recap-Demo-Dama-Tahtası-Yapımı.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\bin\Debug\Recap-Demo-Dama-Tahtası-Yapımı.pdb
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\obj\Debug\Recap-Demo-Dama-Tahtası-Yapımı.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\obj\Debug\Recap_Demo_Dama_Tahtası_Yapımı.Form1.resources
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\obj\Debug\Recap_Demo_Dama_Tahtası_Yapımı.Properties.Resources.resources
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\obj\Debug\Recap-Demo-Dama-Tahtası-Yapımı.csproj.GenerateResource.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\obj\Debug\Recap-Demo-Dama-Tahtası-Yapımı.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\obj\Debug\Recap-Demo-Dama-Tahtası-Yapımı.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Recap-Demo-Dama-Tahtası-Yapımı\obj\Debug\Recap-Demo-Dama-Tahtası-Yapımı.pdb

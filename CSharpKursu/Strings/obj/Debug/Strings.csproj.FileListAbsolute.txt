@@ -1,0 +1,7 @@
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Strings\bin\Debug\Strings.exe.config
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Strings\bin\Debug\Strings.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Strings\bin\Debug\Strings.pdb
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Strings\obj\Debug\Strings.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Strings\obj\Debug\Strings.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\Strings\obj\Debug\Strings.pdb

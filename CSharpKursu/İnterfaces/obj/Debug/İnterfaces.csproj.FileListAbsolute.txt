@@ -1,0 +1,7 @@
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\İnterfaces\bin\Debug\İnterfaces.exe.config
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\İnterfaces\bin\Debug\İnterfaces.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\İnterfaces\bin\Debug\İnterfaces.pdb
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\İnterfaces\obj\Debug\İnterfaces.csproj.AssemblyReference.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\İnterfaces\obj\Debug\İnterfaces.csproj.CoreCompileInputs.cache
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\İnterfaces\obj\Debug\İnterfaces.exe
+C:\Users\basan\OneDrive\Masaüstü\C# OOP\engin_demiroğ_C#_kursu\CSharpKursu\İnterfaces\obj\Debug\İnterfaces.pdb
